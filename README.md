@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdekunleShokunbi
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis and finance
 - 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on Internship and projects
 - 📫 How to reach me Adekunleshokes@gmail.com
